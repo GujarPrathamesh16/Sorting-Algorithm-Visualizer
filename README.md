@@ -2,7 +2,7 @@
 This is a small python project to visualize the flow of different sorting algorithms and  traces the changes occurring in the position of elements of the array.
 ## PROBLEM STATEMENT
 Visualization of major sorting algorithms using Python Library ‘Tkinter’.
-## EXPLANATION OF ASSIGNMENT
+## EXPLANATION OF PROJECT
 Various sorting algorithms are present and many of which are taught in colleges, but
 even if the teacher tries their best to make the students explain, it always lacks a vital
 element i.e visualization. So here we present our group project SORTING
