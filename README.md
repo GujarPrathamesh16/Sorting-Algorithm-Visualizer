@@ -7,7 +7,7 @@ Various sorting algorithms are present and many of which are taught in colleges,
 even if the teacher tries their best to make the students explain, it always lacks a vital
 element i.e visualization. So here we present our group project SORTING
 ALGORITHMS TRACER.
-### PROGRAMMING LANGUAGE AND TOOLS USED
+## PROGRAMMING LANGUAGE AND TOOLS USED
 This project uses a python standard GUI library 'Tkinter'. The Tkinter module helps in
 creating GUI applications in a fast and easy way.
 Some common ones are Buttons, Labels, Frames, Menus. The message, Radio button,
